@@ -1,2 +1,2 @@
 My first readme
-One change on GitHub.com
+One change GitHub.com
